@@ -1,0 +1,9 @@
+c:\users\james\documents\visual studio 2015\Projects\money_calculator\money_calculator\bin\Debug\money_calculator.exe.config
+C:\Users\James\Documents\Visual Studio 2015\Projects\money_calculator\money_calculator\bin\Debug\money_calculator.exe
+C:\Users\James\Documents\Visual Studio 2015\Projects\money_calculator\money_calculator\bin\Debug\money_calculator.pdb
+C:\Users\James\Documents\Visual Studio 2015\Projects\money_calculator\money_calculator\obj\Debug\money_calculator.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2015\Projects\money_calculator\money_calculator\obj\Debug\money_calculator.Form1.resources
+C:\Users\James\Documents\Visual Studio 2015\Projects\money_calculator\money_calculator\obj\Debug\money_calculator.Properties.Resources.resources
+C:\Users\James\Documents\Visual Studio 2015\Projects\money_calculator\money_calculator\obj\Debug\money_calculator.csproj.GenerateResource.Cache
+C:\Users\James\Documents\Visual Studio 2015\Projects\money_calculator\money_calculator\obj\Debug\money_calculator.exe
+C:\Users\James\Documents\Visual Studio 2015\Projects\money_calculator\money_calculator\obj\Debug\money_calculator.pdb
